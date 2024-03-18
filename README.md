@@ -1,2 +1,4 @@
 # osu collection
  用于存放osu!相关的东西
+
+[osu!skin](osu!皮肤.md)
