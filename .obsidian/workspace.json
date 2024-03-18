@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "osu!/osu!皮肤.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -157,10 +157,11 @@
   },
   "active": "ef23be52a5c80f4a",
   "lastOpenFiles": [
+    "osu!皮肤.md",
+    "osu!/osu!皮肤.md",
     "osu!/OpenTableDriver自启动.md",
     "README.md",
     "osu!/gosumemory样式展示.md",
-    "osu!/osu!皮肤.md",
     "osu!/attachments/78b59df2de16d2146f2a476572574b56.webp",
     "其他/MarkDown语法入门.md",
     "其他/README.md",
