@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 208.5
   },
   "right": {
     "id": "796b1286ef23bfc8",
@@ -155,7 +155,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "50efd877264ece33",
+  "active": "ef23be52a5c80f4a",
   "lastOpenFiles": [
     "osu!/osu!皮肤.md",
     "osu!皮肤.md",
