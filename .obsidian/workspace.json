@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "2fab763189916c14",
+    "type": "split",
+    "children": [
+      {
+        "id": "96daefccbb241e82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef23be52a5c80f4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "osu!/osu!皮肤.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5fbca1349ec5280f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbfd6e21f3395430",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50efd877264ece33",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e894823d3a226418",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#学习",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a9c851bf52312e9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "34993ade57094729",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 219.5
+  },
+  "right": {
+    "id": "796b1286ef23bfc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "96d6ca6d4c01ec21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1de6996a8083298",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "osu!/osu!皮肤.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8ef8f60c70f30024",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "osu!/osu!皮肤.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6870f348b02a3c0c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e1cf026425f0f59b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "osu!/osu!皮肤.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "ef23be52a5c80f4a",
+  "lastOpenFiles": [
+    "osu!/OpenTableDriver自启动.md",
+    "README.md",
+    "osu!/gosumemory样式展示.md",
+    "osu!/osu!皮肤.md",
+    "osu!/attachments/78b59df2de16d2146f2a476572574b56.webp",
+    "其他/MarkDown语法入门.md",
+    "其他/README.md",
+    "12311.md",
+    "其他",
+    "Spaces/Spaces.md",
+    "Spaces/Home",
+    "Spaces",
+    "1.md",
+    "2.md",
+    "osu!/attachments",
+    "osu!/#attachments/f414ce3a01bec8e35970bd2790c9985d.webp",
+    "1b54fa7bf688f85b1cf749947787e791.webp",
+    "26613782656867c0046eb358af9eb6d5.webp",
+    "68727da1d456002ae040cc313e2696cd.webp",
+    "ffb8c307963d7d314c535dfceb69b195_xs.webp",
+    "osu!/#attachments",
+    "osu!/#附件/f414ce3a01bec8e35970bd2790c9985d 1.webp",
+    "osu!/#附件/473b55f061ccd943a3787ca617e1ba00.webp",
+    "osu!/#附件/f414ce3a01bec8e35970bd2790c9985d.webp",
+    "osu!/#附件",
+    "osu!/f414ce3a01bec8e35970bd2790c9985d.webp",
+    "其他/番剧.md",
+    "新标日本语/1.日语声调.md",
+    "零碎知识拾遗/2.五笔输入法.md",
+    "零碎知识拾遗/1.MarkDown语法入门.md",
+    "新标日本语",
+    "Linux作业.md",
+    "osu!",
+    "2023年/2023.12/Markdown.md",
+    "2023年/2023.12/五笔输入法",
+    "2023年/2023.12/Markdown语法",
+    "未命名.canvas",
+    "baidu.com.md",
+    "img.jpg.md",
+    "[.md",
+    "链接地址.md",
+    "www.baidu.com.md"
+  ]
+}
