@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "osu!/osu!皮肤.md",
+                "file": "osu!皮肤.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "osu!/osu!皮肤.md",
+                "file": "osu!皮肤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "osu!/osu!皮肤.md",
+                "file": "osu!皮肤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "osu!/osu!皮肤.md"
+                "file": "osu!皮肤.md"
               }
             }
           }
@@ -155,14 +155,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ef23be52a5c80f4a",
+  "active": "50efd877264ece33",
   "lastOpenFiles": [
-    "osu!皮肤.md",
     "osu!/osu!皮肤.md",
-    "osu!/OpenTableDriver自启动.md",
+    "osu!皮肤.md",
+    "osu!工具使用/OpenTableDriver自启动.md",
     "README.md",
-    "osu!/gosumemory样式展示.md",
-    "osu!/attachments/78b59df2de16d2146f2a476572574b56.webp",
+    "osu!工具使用/gosumemory样式展示.md",
+    "附件/78b59df2de16d2146f2a476572574b56.webp",
     "其他/MarkDown语法入门.md",
     "其他/README.md",
     "12311.md",
@@ -172,7 +172,7 @@
     "Spaces",
     "1.md",
     "2.md",
-    "osu!/attachments",
+    "附件",
     "osu!/#attachments/f414ce3a01bec8e35970bd2790c9985d.webp",
     "1b54fa7bf688f85b1cf749947787e791.webp",
     "26613782656867c0046eb358af9eb6d5.webp",
@@ -190,7 +190,7 @@
     "零碎知识拾遗/1.MarkDown语法入门.md",
     "新标日本语",
     "Linux作业.md",
-    "osu!",
+    "osu!工具使用",
     "2023年/2023.12/Markdown.md",
     "2023年/2023.12/五笔输入法",
     "2023年/2023.12/Markdown语法",
