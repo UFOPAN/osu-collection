@@ -1,7 +1,7 @@
 # 0-收藏的皮肤
-- Moscow osu! Event ⩽ MOE2023 ⩾
-- 「sigma」- STARRY PHANTOM
-- 「sigma」- MIKU SHOWTIME
+1. Moscow osu! Event ⩽ MOE2023 ⩾
+2. 「sigma」- STARRY PHANTOM
+3. 「sigma」- MIKU SHOWTIME
 ### []()
 ![]()
 ![]()
