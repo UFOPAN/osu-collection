@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a1a09af186d82ed0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +166,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "50efd877264ece33",
+  "active": "a1a09af186d82ed0",
   "lastOpenFiles": [
     "README.md",
     "osu!皮肤.md",
