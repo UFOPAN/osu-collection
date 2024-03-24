@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "osu!工具使用/OpenTableDriver自启动.md",
-                "mode": "source",
+                "file": "学习资料/simpread-LoadRunner 快速入门！看一遍就会了。(内含实例).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "osu!工具使用/OpenTableDriver自启动.md",
+                "file": "学习资料/simpread-LoadRunner 快速入门！看一遍就会了。(内含实例).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "osu!工具使用/OpenTableDriver自启动.md",
+                "file": "学习资料/simpread-LoadRunner 快速入门！看一遍就会了。(内含实例).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "osu!工具使用/OpenTableDriver自启动.md"
+                "file": "学习资料/simpread-LoadRunner 快速入门！看一遍就会了。(内含实例).md"
               }
             }
           }
@@ -155,14 +155,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "50efd877264ece33",
+  "active": "ef23be52a5c80f4a",
   "lastOpenFiles": [
+    "osu!工具使用/OpenTableDriver自启动.md",
+    "学习资料/simpread-LoadRunner 快速入门！看一遍就会了。(内含实例).md",
+    "学习资料",
     "osu!工具使用/gosumemory样式展示.md",
     "README.md",
     "osu!工具使用/osu!皮肤.md",
     "未命名.md",
     "osu!/osu!皮肤.md",
-    "osu!工具使用/OpenTableDriver自启动.md",
     "附件/78b59df2de16d2146f2a476572574b56.webp",
     "其他/MarkDown语法入门.md",
     "其他/README.md",
@@ -194,7 +196,6 @@
     "osu!工具使用",
     "2023年/2023.12/Markdown.md",
     "2023年/2023.12/五笔输入法",
-    "2023年/2023.12/Markdown语法",
     "未命名.canvas",
     "baidu.com.md",
     "img.jpg.md",
