@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "osu!皮肤.md",
+                "file": "osu!工具使用/OpenTableDriver自启动.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "a1a09af186d82ed0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "osu!皮肤.md",
+                "file": "osu!工具使用/OpenTableDriver自启动.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "osu!皮肤.md",
+                "file": "osu!工具使用/OpenTableDriver自启动.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "osu!皮肤.md"
+                "file": "osu!工具使用/OpenTableDriver自启动.md"
               }
             }
           }
@@ -166,14 +155,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a1a09af186d82ed0",
+  "active": "50efd877264ece33",
   "lastOpenFiles": [
+    "osu!工具使用/gosumemory样式展示.md",
     "README.md",
-    "osu!皮肤.md",
+    "osu!工具使用/osu!皮肤.md",
     "未命名.md",
     "osu!/osu!皮肤.md",
     "osu!工具使用/OpenTableDriver自启动.md",
-    "osu!工具使用/gosumemory样式展示.md",
     "附件/78b59df2de16d2146f2a476572574b56.webp",
     "其他/MarkDown语法入门.md",
     "其他/README.md",
