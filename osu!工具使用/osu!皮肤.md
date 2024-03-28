@@ -61,4 +61,15 @@
 ### [Lucy Kushinada v1.0](https://osuck.link/s-3578?v=0)
 ![](https://files.osuck.link/images/skins/b3b21f3dfea2e5b85f16715899ec2924.webp)
  ![](https://files.osuck.link/images/skins/8771ea21c204a606e3803b1b89a680e6.webp)
----
+
+### [- ☾ Chizuru Mizuhara ☽ v1.0](https://osuck.link/s-1638?v=0)
+![](https://files.osuck.link/images/skins/80322d35fa744807b78f561dc64626ab.webp)
+ ![](https://files.osuck.link/images/skins/969e3b51c4e774cdbc4f38cc9a1b8ab3.webp)
+
+### [[Ranni the Witch] 魔女ラニ v1.0](https://osuck.link/s-3031?v=0)
+![](https://files.osuck.link/images/skins/525fc013673dc782183bb6e99190299a.webp)
+ ![](https://files.osuck.link/images/skins/52252560a70bf37b65eab2e1b5a777c6.webp)
+
+### [Kureiji Ollie v1.0](https://osuck.link/s-3487?v=0)
+![](https://files.osuck.link/images/skins/7c5f083bbf00ae78fd95851d896813d3.webp)
+ ![](https://files.osuck.link/images/skins/3cd7ef6b1f90417031059dba18d3ab56.webp)
