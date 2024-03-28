@@ -5,7 +5,8 @@
 4. - # -K- MION 2
 ### []()
 ![]()
-![]()
+ ![]()
+---
 ---
 # 2024年
 
@@ -37,8 +38,27 @@
 ### [Serdar v1.0](https://osuck.link/s-3561?v=1)
 ![](https://files.osuck.link/images/skins/e8c8f6d06a2b2405063331a029411f9c.webp)![](https://files.osuck.link/images/skins/e177c8df7d9616644d1a12eff16011e7.webp)
 <br>
+### [Iochi mari - GB v1.0](https://osuck.link/s-3569?v=0)
+![](https://files.osuck.link/images/skins/731447012b4911be03301cbd32a2bffe.webp)
+![](https://files.osuck.link/images/skins/ef3af3c35fe7376bfa818e7ccf709637.webp)
+
+### [[BA] Saiba Momoi (才羽モモイ) v1.0](https://osuck.link/s-3571?v=0)
+![](https://files.osuck.link/images/skins/0bed5b25950544be9c6e125365f857d6.webp)
+ ![](https://files.osuck.link/images/skins/c724f39f19d74e9f594d7a92453d4f62.webp)
+
+### [Cult of the lamb v1.0](https://osuck.link/s-3574?v=0)
+![](https://files.osuck.link/images/skins/489576babeecc10f0c4d7c82e719a881.webp)
+ ![](https://files.osuck.link/images/skins/2d0ea6f7cdc8eb72b16b4c6734ad7904.webp)
+
+### [Frieren v1.0](https://osuck.link/s-3577?v=0)
+![](https://files.osuck.link/images/skins/8729275e0665556493887a85f2be9290.webp)
+ ![](https://files.osuck.link/images/skins/4552f696febf7086ee42a38bbf6de54e.webp)
+
+### [Fern - Sousou no Frieren v1.2](https://osuck.link/s-3565?v=0)
+![](https://files.osuck.link/images/skins/fe3b34509f3b1e8ee239dfbcb3085a44.webp)
+ ![](https://files.osuck.link/images/skins/8d388cf0211f2d94a3221147dc15f6af.webp)
+
 ### []()
 ![]()
-![]()
----
+ ![]()
 ---
