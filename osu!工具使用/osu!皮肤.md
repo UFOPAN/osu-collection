@@ -58,7 +58,7 @@
 ![](https://files.osuck.link/images/skins/fe3b34509f3b1e8ee239dfbcb3085a44.webp)
  ![](https://files.osuck.link/images/skins/8d388cf0211f2d94a3221147dc15f6af.webp)
 
-### []()
-![]()
- ![]()
+### [Lucy Kushinada v1.0](https://osuck.link/s-3578?v=0)
+![](https://files.osuck.link/images/skins/b3b21f3dfea2e5b85f16715899ec2924.webp)
+ ![](https://files.osuck.link/images/skins/8771ea21c204a606e3803b1b89a680e6.webp)
 ---

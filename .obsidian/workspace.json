@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7417606a236aa2de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "osu!工具使用/osu!皮肤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "osu!工具使用/osu!皮肤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "osu!工具使用/osu!皮肤.md"
               }
             }
           }
@@ -179,11 +167,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7417606a236aa2de",
+  "active": "073bcc2c7587e7bd",
   "lastOpenFiles": [
     "README.md",
-    "conflict-files-obsidian-git.md",
     "osu!工具使用/osu!皮肤.md",
+    "conflict-files-obsidian-git.md",
     "学习资料/simpread-LoadRunner 快速入门！看一遍就会了。(内含实例).md",
     "osu!工具使用/OpenTableDriver自启动.md",
     "学习资料",
