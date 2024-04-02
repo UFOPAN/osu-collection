@@ -11,11 +11,9 @@
             "id": "ef23be52a5c80f4a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "audio",
               "state": {
-                "file": "osu!工具使用/osu!皮肤.md",
-                "mode": "source",
-                "source": false
+                "file": "附件/造花の距離感.mp3"
               }
             }
           }
@@ -77,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5,
-    "collapsed": true
+    "width": 208.5
   },
   "right": {
     "id": "796b1286ef23bfc8",
@@ -94,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "osu!工具使用/osu!皮肤.md",
+                "file": "附件/造花の距離感.mp3",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "osu!工具使用/osu!皮肤.md",
+                "file": "附件/造花の距離感.mp3",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "osu!工具使用/osu!皮肤.md"
+                "file": "附件/造花の距離感.mp3"
               }
             }
           }
@@ -157,8 +154,10 @@
   },
   "active": "ef23be52a5c80f4a",
   "lastOpenFiles": [
-    "README.md",
+    "附件/78b59df2de16d2146f2a476572574b56.webp",
+    "附件/造花の距離感.mp3",
     "osu!工具使用/osu!皮肤.md",
+    "README.md",
     "conflict-files-obsidian-git.md",
     "学习资料/simpread-LoadRunner 快速入门！看一遍就会了。(内含实例).md",
     "osu!工具使用/OpenTableDriver自启动.md",
@@ -166,7 +165,6 @@
     "osu!工具使用/gosumemory样式展示.md",
     "未命名.md",
     "osu!/osu!皮肤.md",
-    "附件/78b59df2de16d2146f2a476572574b56.webp",
     "其他/MarkDown语法入门.md",
     "其他/README.md",
     "12311.md",
@@ -196,7 +194,6 @@
     "Linux作业.md",
     "osu!工具使用",
     "2023年/2023.12/Markdown.md",
-    "2023年/2023.12/五笔输入法",
     "未命名.canvas",
     "baidu.com.md",
     "img.jpg.md",
