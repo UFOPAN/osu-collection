@@ -11,9 +11,11 @@
             "id": "ef23be52a5c80f4a",
             "type": "leaf",
             "state": {
-              "type": "audio",
+              "type": "markdown",
               "state": {
-                "file": "附件/造花の距離感.mp3"
+                "file": "osu!工具使用/osu!皮肤.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "附件/造花の距離感.mp3",
+                "file": "osu!工具使用/osu!皮肤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "附件/造花の距離感.mp3",
+                "file": "osu!工具使用/osu!皮肤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "附件/造花の距離感.mp3"
+                "file": "osu!工具使用/osu!皮肤.md"
               }
             }
           }
@@ -154,8 +156,8 @@
   },
   "active": "ef23be52a5c80f4a",
   "lastOpenFiles": [
-    "附件/78b59df2de16d2146f2a476572574b56.webp",
     "附件/造花の距離感.mp3",
+    "附件/78b59df2de16d2146f2a476572574b56.webp",
     "osu!工具使用/osu!皮肤.md",
     "README.md",
     "conflict-files-obsidian-git.md",
