@@ -11,8 +11,7 @@
 # 2024年
 
 ## 3月
-### [Dumborino-Mion~ v1.0](https://osuck.link/s-2161?v=0)
-![](https://files.osuck.link/images/skins/2c2a522dc9f63899403dc0ba297294ad.webp)![](https://files.osuck.link/images/skins/069c7635ed698ffe292e9c2e4c6b7ccb.webp)
+### [Dumborino-Mion~ v1.0](https://osuck.link/s-2161?v=0)![](https://files.osuck.link/images/skins/2c2a522dc9f63899403dc0ba297294ad.webp)![](https://files.osuck.link/images/skins/069c7635ed698ffe292e9c2e4c6b7ccb.webp)
 
 ### [Furina v1.0](https://osuck.link/s-3376?v=0)
 ![](https://files.osuck.link/images/skins/68478a28ca8e13ea9d33584f62f3954d.webp)![](https://files.osuck.link/images/skins/c3b68b005617db238c60dc8258e445fa.webp)
