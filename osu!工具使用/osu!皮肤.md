@@ -83,3 +83,7 @@
 ### [Deok v3.0](https://osuck.link/s-3573?v=0)
 ![](https://files.osuck.link/images/skins/ca3f864b0a906f2913ae9a6029ba152f.webp)
  ![](https://files.osuck.link/images/skins/f6a5011c2bf20ec88915865e285ceac5.webp)
+
+### [Reimu PC-98 v1.0](https://osuck.link/s-3576?v=0)
+![](https://files.osuck.link/images/skins/1429bbb55e80e60423bb2b2041d48c1c.webp)
+ ![](https://files.osuck.link/images/skins/81f5f2b2a98f796dcc0baf02035be253.webp)
