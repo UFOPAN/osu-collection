@@ -79,3 +79,7 @@
  ### [Words of Yore | an (SK) Maki Acheron Edit v1.0](https://osuck.link/s-3579?v=0)
 ![](https://files.osuck.link/images/skins/958662c1413bfdf509eabc5f189eff5b.webp)
  ![](https://files.osuck.link/images/skins/55000e1b6fdfcb87af640147e91c6138.webp)
+
+### [Deok v3.0](https://osuck.link/s-3573?v=0)
+![](https://files.osuck.link/images/skins/ca3f864b0a906f2913ae9a6029ba152f.webp)
+ ![](https://files.osuck.link/images/skins/f6a5011c2bf20ec88915865e285ceac5.webp)
