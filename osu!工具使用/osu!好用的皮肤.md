@@ -18,6 +18,7 @@
 ## 角色主题皮肤
 
 > 1.  Hatsune Miku Magical Mirai 2019
+> 2. -「sigma」- Stardust
 
 ## 简约皮肤
 
