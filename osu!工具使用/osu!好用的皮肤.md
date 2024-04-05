@@ -13,8 +13,12 @@
 ## 作品主题皮肤
 
 > 1.    『AIR』 Kamio Misuzu NM1
+> 2.  『Sakura no Uta』 - The tear flows because of tenderness
 
 ## 角色主题皮肤
 
 > 1.  Hatsune Miku Magical Mirai 2019
 
+## 简约皮肤
+
+> 1. 《v2》 BluChoco [16.9]
