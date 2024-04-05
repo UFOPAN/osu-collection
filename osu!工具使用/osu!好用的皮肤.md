@@ -22,3 +22,5 @@
 ## 简约皮肤
 
 > 1. 《v2》 BluChoco [16.9]
+> 2. -- ⋮ M2 -- Alumetri - ALTITUDE [NM] ⋮ --
+> 3. -- ⋮ M2 -- Spearmint ⋮ --
