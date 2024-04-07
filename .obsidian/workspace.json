@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "96daefccbb241e82",
+        "id": "17ae043af37a89aa",
         "type": "tabs",
         "children": [
           {
-            "id": "ef23be52a5c80f4a",
+            "id": "9484895131bf70a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "osu!工具使用/osu!皮肤.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f5b4cb79b57a170",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "学习资料/未命名.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "学习资料/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "学习资料/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "学习资料/未命名.md"
               }
             }
           }
@@ -167,19 +154,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8f5b4cb79b57a170",
+  "active": "9484895131bf70a7",
   "lastOpenFiles": [
-    "其他/番剧.md",
-    "其他/MarkDown语法入门.md",
-    "其他/README.md",
+    "学习资料/simpread-LoadRunner 快速入门！看一遍就会了。(内含实例).md",
+    "学习资料/未命名.md",
+    "README.md",
     "osu!工具使用/osu!好用的皮肤.md",
     "osu!工具使用/osu!皮肤.md",
-    "osu!工具使用/gosumemory样式展示.md",
-    "osu!工具使用/OpenTableDriver自启动.md",
-    "学习资料/simpread-LoadRunner 快速入门！看一遍就会了。(内含实例).md",
+    "其他/番剧.md",
     "附件/造花の距離感.mp3",
     "附件/78b59df2de16d2146f2a476572574b56.webp",
-    "README.md",
+    "其他/MarkDown语法入门.md",
+    "其他/README.md",
+    "osu!工具使用/gosumemory样式展示.md",
+    "osu!工具使用/OpenTableDriver自启动.md",
     "conflict-files-obsidian-git.md",
     "学习资料",
     "未命名.md",
@@ -214,7 +202,6 @@
     "baidu.com.md",
     "img.jpg.md",
     "[.md",
-    "链接地址.md",
-    "www.baidu.com.md"
+    "链接地址.md"
   ]
 }
