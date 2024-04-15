@@ -99,3 +99,7 @@
 ### [Happy Memories - Yuru Camp v1.0](https://osuck.link/s-1566?v=0)
 ![](https://files.osuck.link/images/skins/2d07a6a227aea2f7283845e2945e57d5.webp)
  ![](https://files.osuck.link/images/skins/dd6c6b33065345674d1346ad102fdae1.webp)
+
+### [(SK) Hidero v1.0](https://osuck.link/s-2422?v=0)
+![](https://files.osuck.link/images/skins/8c3b479add76195e803c4f0008919ee6.webp)
+ ![](https://files.osuck.link/images/skins/fc7d67584372efd7eca3774ee2f6f128.webp)
