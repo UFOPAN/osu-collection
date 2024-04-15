@@ -11,11 +11,9 @@
             "id": "9484895131bf70a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "学习资料/未命名.md",
-                "mode": "preview",
-                "source": false
+                "file": "附件/提交文件要求.jpg"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习资料/未命名.md",
+                "file": "附件/提交文件要求.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习资料/未命名.md",
+                "file": "附件/提交文件要求.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习资料/未命名.md"
+                "file": "附件/提交文件要求.jpg"
               }
             }
           }
@@ -156,16 +154,22 @@
   },
   "active": "9484895131bf70a7",
   "lastOpenFiles": [
+    "附件/学生成绩管理 1.c",
+    "附件/造花の距離感.mp3",
+    "附件/提交文件要求.jpg",
     "学习资料/simpread-LoadRunner 快速入门！看一遍就会了。(内含实例).md",
     "学习资料/未命名.md",
-    "README.md",
     "osu!工具使用/osu!好用的皮肤.md",
     "osu!工具使用/osu!皮肤.md",
+    "其他/README.md",
+    "附件/学生成绩管理.c",
     "其他/番剧.md",
-    "附件/造花の距離感.mp3",
+    "其他/学生成绩管理.c",
+    "学习资料/学生成绩管理 1.c",
+    "学习资料/学生成绩管理.c",
+    "README.md",
     "附件/78b59df2de16d2146f2a476572574b56.webp",
     "其他/MarkDown语法入门.md",
-    "其他/README.md",
     "osu!工具使用/gosumemory样式展示.md",
     "osu!工具使用/OpenTableDriver自启动.md",
     "conflict-files-obsidian-git.md",
@@ -185,23 +189,17 @@
     "26613782656867c0046eb358af9eb6d5.webp",
     "68727da1d456002ae040cc313e2696cd.webp",
     "ffb8c307963d7d314c535dfceb69b195_xs.webp",
-    "osu!/#attachments",
     "osu!/#附件/f414ce3a01bec8e35970bd2790c9985d 1.webp",
     "osu!/#附件/473b55f061ccd943a3787ca617e1ba00.webp",
     "osu!/#附件/f414ce3a01bec8e35970bd2790c9985d.webp",
-    "osu!/#附件",
-    "osu!/f414ce3a01bec8e35970bd2790c9985d.webp",
     "新标日本语/1.日语声调.md",
     "零碎知识拾遗/2.五笔输入法.md",
     "零碎知识拾遗/1.MarkDown语法入门.md",
-    "新标日本语",
     "Linux作业.md",
-    "osu!工具使用",
     "2023年/2023.12/Markdown.md",
     "未命名.canvas",
     "baidu.com.md",
     "img.jpg.md",
-    "[.md",
-    "链接地址.md"
+    "[.md"
   ]
 }
