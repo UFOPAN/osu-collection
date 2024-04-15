@@ -103,3 +103,11 @@
 ### [(SK) Hidero v1.0](https://osuck.link/s-2422?v=0)
 ![](https://files.osuck.link/images/skins/8c3b479add76195e803c4f0008919ee6.webp)
  ![](https://files.osuck.link/images/skins/fc7d67584372efd7eca3774ee2f6f128.webp)
+
+### [(SK) Maki v1.0](https://osuck.link/s-2467?v=0)
+![](https://files.osuck.link/images/skins/2883e3d32aec52aa743180a5ed3f4da6.webp)
+ ![](https://files.osuck.link/images/skins/004d777c7eecf7f0b06d289e64ac56bd.webp)
+
+### [(SK) Shigera_Elaina v1.0](https://osuck.link/s-2310?v=0)
+![](https://files.osuck.link/images/skins/25f00b1a120aedfdb11af5c2e45f5665.webp)
+ ![](https://files.osuck.link/images/skins/028a2d3febe23aad2467e48a190f6832.webp)
