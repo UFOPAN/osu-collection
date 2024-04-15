@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软件测试/软件测试.md",
-                "mode": "preview",
+                "file": "osu!工具使用/osu!皮肤.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a08eac0a3aa19bd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "osu!工具使用/osu!好用的皮肤.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软件测试/软件测试.md",
+                "file": "osu!工具使用/osu!好用的皮肤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "软件测试/软件测试.md",
+                "file": "osu!工具使用/osu!好用的皮肤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软件测试/软件测试.md"
+                "file": "osu!工具使用/osu!好用的皮肤.md"
               }
             }
           }
@@ -154,12 +167,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9484895131bf70a7",
+  "active": "a08eac0a3aa19bd5",
   "lastOpenFiles": [
     "osu!工具使用/osu!皮肤.md",
-    "osu!工具使用/osu!皮肤作者.md",
-    "软件测试/软件测试.md",
     "README.md",
+    "软件测试/软件测试.md",
+    "osu!工具使用/osu!皮肤作者.md",
     "学习资料/simpread-LoadRunner 快速入门！看一遍就会了。(内含实例).md",
     "osu!工具使用/osu!好用的皮肤.md",
     "osu!工具使用/gosumemory样式展示.md",
