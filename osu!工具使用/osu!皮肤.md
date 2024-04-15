@@ -87,3 +87,15 @@
 ### [Reimu PC-98 v1.0](https://osuck.link/s-3576?v=0)
 ![](https://files.osuck.link/images/skins/1429bbb55e80e60423bb2b2041d48c1c.webp)
  ![](https://files.osuck.link/images/skins/81f5f2b2a98f796dcc0baf02035be253.webp)
+
+### [Bocil Payung {Kobo kanaeru} v1.0](https://osuck.link/s-3591?v=0)
+![](https://files.osuck.link/images/skins/d8cd7e5fb86b1568b5d5e03b8b2ae3b0.webp)
+ ![](https://files.osuck.link/images/skins/1aaac94bdb94b4a02c99e54faaf8079e.webp)
+
+### [quiltrue]([quiltrue | compendium (skinship.xyz)](https://compendium.skinship.xyz/2024-03-31/1903814))
+![](https://i.imgur.com/sLWr1Um.png?2)
+ ![](https://i.imgur.com/wxpBTYs.png)
+
+### [Happy Memories - Yuru Camp v1.0](https://osuck.link/s-1566?v=0)
+![](https://files.osuck.link/images/skins/2d07a6a227aea2f7283845e2945e57d5.webp)
+ ![](https://files.osuck.link/images/skins/dd6c6b33065345674d1346ad102fdae1.webp)
