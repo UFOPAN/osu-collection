@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "osu!工具使用/osu!皮肤作者.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "osu!工具使用/osu!皮肤作者.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "osu!工具使用/osu!皮肤作者.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "osu!工具使用/osu!皮肤作者.md"
+                "file": "README.md"
               }
             }
           }
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,11 +156,11 @@
   },
   "active": "9484895131bf70a7",
   "lastOpenFiles": [
-    "osu!工具使用/gosumemory样式展示.md",
     "osu!工具使用/osu!皮肤作者.md",
-    "osu!工具使用/OpenTableDriver自启动.md",
     "osu!工具使用/osu!好用的皮肤.md",
     "osu!工具使用/osu!皮肤.md",
+    "osu!工具使用/gosumemory样式展示.md",
+    "osu!工具使用/OpenTableDriver自启动.md",
     "conflict-files-obsidian-git.md",
     "附件/提交文件要求.jpg",
     "附件/造花の距離感.mp3",
