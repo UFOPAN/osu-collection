@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "osu!工具使用/osu!好用的皮肤.md",
+                "file": "osu!工具使用/osu!皮肤.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "osu!工具使用/osu!好用的皮肤.md",
+                "file": "osu!工具使用/osu!皮肤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "osu!工具使用/osu!好用的皮肤.md",
+                "file": "osu!工具使用/osu!皮肤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "osu!工具使用/osu!好用的皮肤.md"
+                "file": "osu!工具使用/osu!皮肤.md"
               }
             }
           }
@@ -169,12 +169,12 @@
   },
   "active": "a08eac0a3aa19bd5",
   "lastOpenFiles": [
+    "osu!工具使用/osu!好用的皮肤.md",
     "osu!工具使用/osu!皮肤.md",
     "README.md",
     "软件测试/软件测试.md",
     "osu!工具使用/osu!皮肤作者.md",
     "学习资料/simpread-LoadRunner 快速入门！看一遍就会了。(内含实例).md",
-    "osu!工具使用/osu!好用的皮肤.md",
     "osu!工具使用/gosumemory样式展示.md",
     "osu!工具使用/OpenTableDriver自启动.md",
     "conflict-files-obsidian-git.md",
