@@ -135,3 +135,6 @@
 ### [悪夢 AFFLICTION - Uruha Rushia v1.0](https://osuck.link/s-3603?v=0)
 ![](https://files.osuck.link/images/skins/a87e722af51a9ea4515b018a6086a49e.webp)
  ![](https://files.osuck.link/images/skins/bba695683b7a351e61e69315e1228350.webp)
+### [Numi 悪魔ニムネ v1.0](https://osuck.link/s-3626?v=0)
+![](https://files.osuck.link/images/skins/1292336898b5b1b703b6b0afb4afbd3c.webp)
+ ![](https://files.osuck.link/images/skins/69f33e13ba9c7655b4d9fad58817a3fc.webp)
