@@ -144,3 +144,6 @@
  ### [(原神Project) The Damselette v1.0](https://osuck.link/s-3635?v=0)
 ![](https://files.osuck.link/images/skins/7ff420bd95b721fd3b9abb7b00b4f28c.webp)
  ![](https://files.osuck.link/images/skins/9a94189a8ed05b80957939adb4212f48.webp)
+### [Cypher's Chocola v1.0](https://osuck.link/s-3611?v=0)
+![](https://files.osuck.link/images/skins/cdc8312efb4d442f0f507d523e1bc313.webp)
+ ![](https://files.osuck.link/images/skins/9247beebf186a71ef99bdd97ca9a35e0.webp)
