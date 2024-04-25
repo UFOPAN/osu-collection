@@ -153,3 +153,6 @@
  ### [Asu-Rina (Redo & sigma) v09.01.2024](https://osuck.link/s-3398?v=1)
 ![](https://files.osuck.link/images/skins/e440f0e66e053aba06e1fc965c8100c1.webp)
  ![](https://files.osuck.link/images/skins/d7c2683727dd9cb57e33a5227c81e88e.webp)
+ ### [Asu-Rina (Redo & sigma) v09.01.2024-non-weeb](https://osuck.link/s-3398?v=2)
+![](https://files.osuck.link/images/skins/45dd0204f369fbf1b47907300af9e34a.webp)
+ ![](https://files.osuck.link/images/skins/1ab6521ba0c4d14976591abd86bdbc57.webp)
