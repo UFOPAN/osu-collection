@@ -24,11 +24,11 @@ oShell.Run OTDDaemonPath, 0, false
 2. 触发器选择`用户登陆`
 	- 操作设为`启动程序`
 	- 程序或脚本：
-		```python
+		```
 		C:\Windows\System32\cscript.exe
 		```
 	- 添加参数：
-		```vb
+		```
 		"D:\Game\.Tool\OpenTabletDriver\OTD.vbs"
 		```
 		> 这个参数为脚本所在的位置
