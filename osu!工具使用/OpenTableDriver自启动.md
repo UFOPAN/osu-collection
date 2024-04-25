@@ -1,6 +1,16 @@
 # 创建OpenTableDriver脚本
+1. 创建一个文本文件，后缀.txt改为.vbs，使用记事本或文本编辑器打开
+2. 输入以下代码
+```vb
+Set oShell = CreateObject("Wscript.Shell")
 
+Dim OTDDaemonPath
 
+OTDDaemonPath = """D:\Game\.Tool\OpenTabletDriver\OpenTabletDriver.Daemon.exe"""
+
+oShell.Run OTDDaemonPath, 0, false
+```
+==路径位置==填入`OpenTabletDriver.Daemon.exe`
 # 任务计划程序
 
 - 创建任务
