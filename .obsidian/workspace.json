@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "osu!工具使用/osu!好用的皮肤.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eaafb522702a23c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "其他/MarkDown语法入门.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcca0b23442412da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "软件测试/软件测试.md",
+                "file": "osu!工具使用/osu!皮肤.md",
                 "mode": "preview",
                 "source": false
               }
@@ -117,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "osu!工具使用/osu!好用的皮肤.md",
+                "file": "osu!工具使用/osu!皮肤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "osu!工具使用/osu!好用的皮肤.md",
+                "file": "osu!工具使用/osu!皮肤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "osu!工具使用/osu!好用的皮肤.md"
+                "file": "osu!工具使用/osu!皮肤.md"
               }
             }
           }
@@ -180,9 +156,9 @@
   },
   "active": "05cd37d6893b9df1",
   "lastOpenFiles": [
+    "osu!工具使用/osu!好用的皮肤.md",
     "其他/MarkDown语法入门.md",
     "软件测试/软件测试.md",
-    "osu!工具使用/osu!好用的皮肤.md",
     "README.md",
     "测试信息.md",
     "osu!工具使用/osu!皮肤.md",
