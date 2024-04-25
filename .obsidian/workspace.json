@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "osu!工具使用/osu!皮肤.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
