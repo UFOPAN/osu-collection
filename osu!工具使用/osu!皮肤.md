@@ -168,3 +168,6 @@
  ### [rewrite v1.0](https://osuck.link/s-3646?v=0)
 ![](https://files.osuck.link/images/skins/7df2a6cb887da93fcdea7ca378ef5544.webp)
  ![](https://files.osuck.link/images/skins/512e9e34004175957d422f529fb6effd.webp)
+### [DevilGreen v1.1](https://osuck.link/s-3548?v=0)
+![](https://files.osuck.link/images/skins/e220b9bc9afa40610cbfa334ebdad0f9.webp)
+ ![](https://files.osuck.link/images/skins/9284a89ae8cfdbfa437fed8c9eadbfe8.webp)
