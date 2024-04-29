@@ -165,3 +165,6 @@
  ### [Asu-Rina (Redo & sigma) v09.01.2024-non-weeb](https://osuck.link/s-3398?v=2)
 ![](https://files.osuck.link/images/skins/45dd0204f369fbf1b47907300af9e34a.webp)
  ![](https://files.osuck.link/images/skins/1ab6521ba0c4d14976591abd86bdbc57.webp)
+ ### [rewrite v1.0](https://osuck.link/s-3646?v=0)
+![](https://files.osuck.link/images/skins/7df2a6cb887da93fcdea7ca378ef5544.webp)
+ ![](https://files.osuck.link/images/skins/512e9e34004175957d422f529fb6effd.webp)
