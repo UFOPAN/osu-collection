@@ -189,3 +189,6 @@
 ### [Refia nab0i v1.0](https://osuck.link/s-3564?v=0)
 ![](https://files.osuck.link/images/skins/8425c5084b62dd059cb85fbdd1a1abef.webp)
  ![](https://files.osuck.link/images/skins/29e63ab92ef6f7aeec6c8323ed43d961.webp)
+### [OSU! Player Meets the Wise Wolf v1.0](https://osuck.link/s-3589?v=0)
+![](https://files.osuck.link/images/skins/9afce10e1095dc7551224fc13d8ec2e6.webp)
+ ![](https://files.osuck.link/images/skins/ff5c4fa51cd134c27b9e48324c9f0a33.webp)
