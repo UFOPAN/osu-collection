@@ -192,3 +192,7 @@
 ### [OSU! Player Meets the Wise Wolf v1.0](https://osuck.link/s-3589?v=0)
 ![](https://files.osuck.link/images/skins/9afce10e1095dc7551224fc13d8ec2e6.webp)
  ![](https://files.osuck.link/images/skins/ff5c4fa51cd134c27b9e48324c9f0a33.webp)
+## 5月
+### [Shirokuma シロクマ v2.1](https://osuck.link/s-3671?v=0)
+![]()
+ ![]()
