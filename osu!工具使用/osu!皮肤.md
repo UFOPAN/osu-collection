@@ -194,5 +194,5 @@
  ![](https://files.osuck.link/images/skins/ff5c4fa51cd134c27b9e48324c9f0a33.webp)
 ## 5月
 ### [Shirokuma シロクマ v2.1](https://osuck.link/s-3671?v=0)
-![]()
- ![]()
+![](https://files.osuck.link/images/skins/4de19a8d60bac89f24ec030e4d6916ad.webp)
+ ![](https://files.osuck.link/images/skins/4abfe65a479b08cac6c498ea6f2ae6e1.webp)
