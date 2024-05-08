@@ -196,3 +196,6 @@
 ### [Shirokuma シロクマ v2.1](https://osuck.link/s-3671?v=0)
 ![](https://files.osuck.link/images/skins/4de19a8d60bac89f24ec030e4d6916ad.webp)
  ![](https://files.osuck.link/images/skins/4abfe65a479b08cac6c498ea6f2ae6e1.webp) 
+### [Fruits Basket v1.0](https://osuck.link/s-3675?v=0)
+![](https://files.osuck.link/images/skins/48abf9a25defe2581d4817fd5640c429.webp)
+ ![](https://files.osuck.link/images/skins/a335f091a37bb8624d60b222321ed7d2.webp)
