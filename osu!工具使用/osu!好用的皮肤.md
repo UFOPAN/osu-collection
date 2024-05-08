@@ -31,3 +31,22 @@
 > 1. 《v2》 BluChoco [16.9]
 > 2. -- ⋮ M2 -- Alumetri - ALTITUDE [NM] ⋮ --
 > 3. -- ⋮ M2 -- Spearmint ⋮ --
+
+## lolol233皮肤
+
+> 1. \#boop kazusa
+> 2. \#SK twilight
+> 3. aristia himawari
+> 4. azerino frieren
+> 5. gn marine
+> 6. megumin rafis dt
+
+```
+aristia - 万能
+azerino - hdhr
+rafis - dt/ar11（最强dt skin）
+boop - 偏aim的hddt（高ar和单dt不好用）
+gn - hd(ar<9)/ezhd
+sk - ez
+```
+
