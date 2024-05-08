@@ -5,6 +5,7 @@
 >3. -Spowoky 2020
 >4. [Bocil Payung {Kobo kanaeru} v1.0](https://osuck.link/s-3591?v=0)
 >5. -《HNJ》 Kozeki Ui 『WC』
+>6. \# Decaplets -
 
 ## DT
 > Rafis HDDT 2018 AI Upscaled v1.0
