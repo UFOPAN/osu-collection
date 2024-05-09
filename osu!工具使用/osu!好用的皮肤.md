@@ -7,6 +7,7 @@
 >5. -《HNJ》 Kozeki Ui 『WC』
 >6. \# Decaplets -
 >7. \- Seoul v11 (worst hr player edit)
+>8. Denying's Homura
 
 ## DT
 > Rafis HDDT 2018 AI Upscaled v1.0
@@ -27,6 +28,7 @@
 
 > 1.  Hatsune Miku Magical Mirai 2019
 > 2. -「sigma」- Stardust
+> 3. Denying's Homura
 
 ## 简约皮肤
 
