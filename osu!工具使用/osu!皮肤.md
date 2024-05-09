@@ -215,3 +215,10 @@
 ### [Reimu v1.0](https://osuck.link/s-3201?v=0)
 ![](https://files.osuck.link/images/skins/caab34044598b7a32ffcdb3e1e88d783.webp)
  ![](https://files.osuck.link/images/skins/02407cd53e2c032e464d56ee64427370.webp)
+### [「SENBONZAKURA」 初音ミク](https://www.reddit.com/r/OsuSkins/comments/sdczi6/senbonzakura_%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF_169_hdsd_osustd_animated/)
+![](https://i.imgur.com/okI8pkt.jpeg)
+ ![](https://i.imgur.com/PwVXtCr.jpeg)
+ ![](https://i.imgur.com/cd1HmZS.webp)
+  ![]()
+   ![]()
+   
