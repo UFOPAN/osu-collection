@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "12ddff557aa93cff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "osu!工具使用/OpenTableDriver自启动.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5,
-    "collapsed": true
+    "width": 208.5
   },
   "right": {
     "id": "796b1286ef23bfc8",
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "osu!工具使用/osu!皮肤.md",
+                "file": "osu!工具使用/OpenTableDriver自启动.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "osu!工具使用/osu!皮肤.md",
+                "file": "osu!工具使用/OpenTableDriver自启动.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "osu!工具使用/osu!皮肤.md"
+                "file": "osu!工具使用/OpenTableDriver自启动.md"
               }
             }
           }
@@ -156,11 +168,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "157c39667fc815a9",
+  "active": "12ddff557aa93cff",
   "lastOpenFiles": [
+    "osu!工具使用/osu!皮肤.md",
     "osu!工具使用/osu!皮肤作者.md",
     "osu!工具使用/osu!好用的皮肤.md",
-    "osu!工具使用/osu!皮肤.md",
     "README.md",
     "软件测试/软件测试.md",
     "osu!工具使用/OpenTableDriver自启动.md",
