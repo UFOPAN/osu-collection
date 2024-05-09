@@ -208,3 +208,6 @@
 ### [『AIR』Kamio Misuzu - By CloudKeyz](https://www.youtube.com/watch?v=dyRZMXCtwow)
 ![](https://i.imgur.com/Q7yKMpE.png)
  ![](https://i.imgur.com/o0J2n44.webp)
+### [Reimu v1.0](https://osuck.link/s-3201?v=0)
+![]()
+ ![]()

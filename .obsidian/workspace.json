@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 208.5,
+    "collapsed": true
   },
   "right": {
     "id": "796b1286ef23bfc8",
@@ -142,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,7 +156,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "157c39667fc815a9",
+  "active": "e1cf026425f0f59b",
   "lastOpenFiles": [
     "osu!工具使用/osu!皮肤作者.md",
     "osu!工具使用/osu!好用的皮肤.md",
