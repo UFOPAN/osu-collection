@@ -8,6 +8,7 @@
 >6. \# Decaplets -
 >7. \- Seoul v11 (worst hr player edit)
 >8. Denying's Homura
+>9. \\-#〖Prinz Heinrich〗#-〘by Pirasto〙
 
 ## DT
 > Rafis HDDT 2018 AI Upscaled v1.0

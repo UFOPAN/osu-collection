@@ -202,3 +202,6 @@
  ### [Prinz Heinrich v1.0](https://osuck.link/s-2098?v=0)
 ![](https://files.osuck.link/images/skins/0279f3796e13a21f69626e3701973709.webp)
  ![](https://files.osuck.link/images/skins/790108ada4374137b4baa6e894065a69.webp)
+ ### [Megumin v1.0](https://osuck.link/s-2214?v=0)
+![](https://files.osuck.link/images/skins/385ac613e27ad933ae75106ef25a4f54.webp)
+ ![]()
