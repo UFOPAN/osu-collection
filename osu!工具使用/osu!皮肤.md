@@ -199,3 +199,6 @@
 ### [Fruits Basket v1.0](https://osuck.link/s-3675?v=0)
 ![](https://files.osuck.link/images/skins/48abf9a25defe2581d4817fd5640c429.webp)
  ![](https://files.osuck.link/images/skins/a335f091a37bb8624d60b222321ed7d2.webp)
+ ### [Prinz Heinrich v1.0](https://osuck.link/s-2098?v=0)
+![](https://files.osuck.link/images/skins/0279f3796e13a21f69626e3701973709.webp)
+ ![](https://files.osuck.link/images/skins/790108ada4374137b4baa6e894065a69.webp)
