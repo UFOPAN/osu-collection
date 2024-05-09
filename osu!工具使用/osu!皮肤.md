@@ -206,5 +206,5 @@
 ![](https://files.osuck.link/images/skins/385ac613e27ad933ae75106ef25a4f54.webp)
  ![](https://files.osuck.link/images/skins/bef893460cfff9c130db4c816e6d23c3.webp)
 ### [『AIR』Kamio Misuzu - By CloudKeyz](https://www.youtube.com/watch?v=dyRZMXCtwow)
-![]()
- ![]()
+![](https://i.imgur.com/Q7yKMpE.png)
+ ![](https://i.imgur.com/o0J2n44.webp)
