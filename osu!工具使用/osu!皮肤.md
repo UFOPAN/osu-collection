@@ -224,3 +224,7 @@
  ![](https://i.imgur.com/NBBq5Pu.webp)
  ![](https://i.imgur.com/i45Nbdi.webp)
  ![](https://i.imgur.com/LZUSCHd.webp)
+
+### [Phosphor v1.0](https://osuck.link/s-3687?v=0)
+![](https://files.osuck.link/images/skins/16ccccac4110f449d9bca0d97c4b3029.webp)
+ ![](https://files.osuck.link/images/skins/68d8f7d924f1f326b2e67bc82093cd14.webp)
