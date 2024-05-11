@@ -233,3 +233,7 @@
 ![](https://files.osuck.link/images/skins/87952d534178916ba3b688f0de722e5b.webp)
  ![](https://files.osuck.link/images/skins/16d455fdd9dbba787028af964ee5cb9e.webp)
 ![](https://files.osuck.link/images/skins/1c72fde1300e099b73ed4194f6ba34eb.webp)
+
+### [Arcueid Brunestud v1.0](https://osuck.link/s-3678?v=0)
+![](https://files.osuck.link/images/skins/998fcc94adaf7201325efe1c67f69882.webp)
+ ![](https://files.osuck.link/images/skins/1610dbc607a346f3ac13543f01ad0c6c.webp)
