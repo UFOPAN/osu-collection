@@ -11,9 +11,10 @@
 >9. \\-#〖Prinz Heinrich〗#-〘by Pirasto〙
 
 ## DT
-> Rafis HDDT 2018 AI Upscaled v1.0
-> Rafis HDDT (akolibed edit) v1.0
-> Osu!ge-chan DT v2.0
+>1.  Rafis HDDT 2018 AI Upscaled v1.0
+>2. Rafis HDDT (akolibed edit) v1.0
+>3. Osu!ge-chan DT v2.0
+
 ## 提升准确度的神奇皮肤
 
 > 1. 《CK》 WhiteCat 3.0 ~ v2
