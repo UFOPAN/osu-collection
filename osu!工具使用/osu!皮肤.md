@@ -237,3 +237,7 @@
 ### [Arcueid Brunestud v1.0](https://osuck.link/s-3678?v=0)
 ![](https://files.osuck.link/images/skins/998fcc94adaf7201325efe1c67f69882.webp)
  ![](https://files.osuck.link/images/skins/1610dbc607a346f3ac13543f01ad0c6c.webp)
+
+### [[HRK] BRILLIANT ASTROLABE v1.0](https://osuck.link/s-3677?v=0)
+![](https://files.osuck.link/images/skins/b6ccfbd656262642b2b3684b339608c6.webp)
+ ![](https://files.osuck.link/images/skins/a51e377076175bb22d526df3a773d3e1.webp)
