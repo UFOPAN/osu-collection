@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "osu!工具使用/osu!好用的皮肤.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "osu!工具使用/osu!好用的皮肤.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "osu!工具使用/osu!好用的皮肤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "osu!工具使用/osu!好用的皮肤.md"
               }
             }
           }
@@ -170,11 +170,11 @@
   },
   "active": "12ddff557aa93cff",
   "lastOpenFiles": [
-    "osu!工具使用/osu!好用的皮肤.md",
     "osu!工具使用/osu!皮肤.md",
+    "README.md",
+    "osu!工具使用/osu!好用的皮肤.md",
     "osu!工具使用/OpenTableDriver自启动.md",
     "osu!工具使用/osu!皮肤作者.md",
-    "README.md",
     "软件测试/软件测试.md",
     "其他/MarkDown语法入门.md",
     "osu!工具使用/gosumemory样式展示.md",
