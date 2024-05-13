@@ -245,3 +245,14 @@
 ### [Logtsuki - Log Horizon Akatsuki themed skin v1.0](https://osuck.link/s-3685?v=0)
 ![](https://files.osuck.link/images/skins/c60a92837a6f284a46573edbe31b1f27.webp)
  ![](https://files.osuck.link/images/skins/8278250dfed39d2acdd931db266d3224.webp)
+
+### [K-On!! - Hirasawa Yui v2.0](https://osuck.link/s-3680?v=0)
+![](https://files.osuck.link/images/skins/55de63d6062ef8bc0efcfea58c247d87.webp)
+ ![](https://files.osuck.link/images/skins/12974cf587612f9c7a1b77130e9605b0.webp)
+ ![](https://files.osuck.link/images/skins/98f703e921392e40dcf69dd7baf0040c.webp)
+ ![](https://files.osuck.link/images/skins/5b0ec3d97dc4a92f3360b5bda1247c04.webp)
+
+### [JUIFEED v1.0](https://osuck.link/s-3684?v=0)
+![](https://files.osuck.link/images/skins/a2263dc4c9b3cdc2c15ab260e90506ec.webp)
+ ![](https://files.osuck.link/images/skins/ea4f3bbde0a3fc6a67c85af74f237f9b.webp)
+
