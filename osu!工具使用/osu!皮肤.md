@@ -254,5 +254,12 @@
 
 ### [JUIFEED v1.0](https://osuck.link/s-3684?v=0)
 ![](https://files.osuck.link/images/skins/a2263dc4c9b3cdc2c15ab260e90506ec.webp)
- ![](https://files.osuck.link/images/skins/ea4f3bbde0a3fc6a67c85af74f237f9b.webp)
+![](https://files.osuck.link/images/skins/ea4f3bbde0a3fc6a67c85af74f237f9b.webp)
 
+### [# - Nanamori v1.0](https://osuck.link/s-1129?v=0)
+![](https://files.osuck.link/images/skins/2f501e7f4f90053463a5bb6cf2eaaabc.webp)
+![](https://files.osuck.link/images/skins/301e11cb0c266e87176a6ebeadb37733.webp)
+
+### [osu__german_skin v33](https://osuck.link/s-67?v=0)
+![](https://files.osuck.link/images/skins/b955da658f275d03385556a35343ff39.webp)
+![](https://files.osuck.link/images/skins/059a603716ea84bcb72ed359ab5663ff.webp)
