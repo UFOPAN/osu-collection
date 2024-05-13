@@ -9,6 +9,7 @@
 >7. \- Seoul v11 (worst hr player edit)
 >8. Denying's Homura
 >9. \\-#〖Prinz Heinrich〗#-〘by Pirasto〙
+>10. \- I'm so Alone ;( -
 
 ## DT
 >1.  Rafis HDDT 2018 AI Upscaled v1.0
