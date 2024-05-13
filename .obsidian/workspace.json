@@ -25,13 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "osu!工具使用/osu!皮肤作者.md",
+                "file": "osu!工具使用/OpenTableDriver自启动.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "37b1eb72f255f5c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5,
-    "collapsed": true
+    "width": 208.5
   },
   "right": {
     "id": "796b1286ef23bfc8",
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "osu!工具使用/osu!皮肤.md",
+                "file": "未命名.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "osu!工具使用/osu!皮肤.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "osu!工具使用/osu!皮肤.md"
+                "file": "未命名.md"
               }
             }
           }
@@ -167,14 +179,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "157c39667fc815a9",
+  "active": "37b1eb72f255f5c2",
   "lastOpenFiles": [
-    "().md",
-    "osu!工具使用/osu!皮肤.md",
-    "osu!工具使用/osu!好用的皮肤.md",
-    "osu!工具使用/osu!皮肤作者.md",
-    "README.md",
     "osu!工具使用/OpenTableDriver自启动.md",
+    "未命名.md",
+    "osu!工具使用/osu!好用的皮肤.md",
+    "osu!工具使用/osu!皮肤.md",
+    "osu!工具使用/osu!皮肤作者.md",
+    "().md",
+    "README.md",
     "软件测试/软件测试.md",
     "其他/MarkDown语法入门.md",
     "osu!工具使用/gosumemory样式展示.md",
@@ -214,7 +227,6 @@
     "零碎知识拾遗/1.MarkDown语法入门.md",
     "Linux作业.md",
     "2023年/2023.12/Markdown.md",
-    "未命名.canvas",
-    "baidu.com.md"
+    "未命名.canvas"
   ]
 }
