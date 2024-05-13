@@ -248,6 +248,7 @@
 
 ### [K-On!! - Hirasawa Yui v2.0](https://osuck.link/s-3680?v=0)
 ![](https://files.osuck.link/images/skins/55de63d6062ef8bc0efcfea58c247d87.webp)![](https://files.osuck.link/images/skins/12974cf587612f9c7a1b77130e9605b0.webp)![](https://files.osuck.link/images/skins/98f703e921392e40dcf69dd7baf0040c.webp)![](https://files.osuck.link/images/skins/5b0ec3d97dc4a92f3360b5bda1247c04.webp)
+![](https://files.osuck.link/images/skins/fb91674e64bd376ed3ebcd7df459b057.webp)
 
 ### [JUIFEED v1.0](https://osuck.link/s-3684?v=0)
 ![](https://files.osuck.link/images/skins/a2263dc4c9b3cdc2c15ab260e90506ec.webp)
@@ -260,3 +261,8 @@
 ### [osu__german_skin v33](https://osuck.link/s-67?v=0)
 ![](https://files.osuck.link/images/skins/b955da658f275d03385556a35343ff39.webp)
 ![](https://files.osuck.link/images/skins/059a603716ea84bcb72ed359ab5663ff.webp)
+
+### [DJMAX RESPECT v1.0](https://osuck.link/s-3478?v=0)
+![](https://files.osuck.link/images/skins/6810cf3f5ebed12f9d6dd75176097a6b.webp)
+![](https://files.osuck.link/images/skins/3613b19bc8fd36511d879888ac5815dc.webp)
+![]()

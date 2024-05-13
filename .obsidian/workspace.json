@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "osu!工具使用/osu!皮肤.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 208.5,
+    "collapsed": true
   },
   "right": {
     "id": "796b1286ef23bfc8",
@@ -168,8 +169,9 @@
   },
   "active": "157c39667fc815a9",
   "lastOpenFiles": [
-    "osu!工具使用/osu!好用的皮肤.md",
+    "().md",
     "osu!工具使用/osu!皮肤.md",
+    "osu!工具使用/osu!好用的皮肤.md",
     "osu!工具使用/osu!皮肤作者.md",
     "README.md",
     "osu!工具使用/OpenTableDriver自启动.md",
@@ -213,7 +215,6 @@
     "Linux作业.md",
     "2023年/2023.12/Markdown.md",
     "未命名.canvas",
-    "baidu.com.md",
-    "img.jpg.md"
+    "baidu.com.md"
   ]
 }
